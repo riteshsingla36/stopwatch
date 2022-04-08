@@ -1,4 +1,4 @@
-# stopwatch
+# Stopwatch
 This is a fully working stopwatch
 
 
